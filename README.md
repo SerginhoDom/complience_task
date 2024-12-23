@@ -1,5 +1,5 @@
 # complience_task
-Task implemented as part of the New Year's hackathon for the bank
+Task implemented as part of the New Year's hackathon for the bank (7th placement)
 
 ## Как запустить приложение
 
